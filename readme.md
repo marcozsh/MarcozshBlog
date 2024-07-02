@@ -8,7 +8,7 @@ Asegúrate de tener instalados los siguientes componentes en tu sistema:
 
 - Python 3.x
 - pip (gestor de paquetes de Python)
-- virtualenv (opcional pero recomendado)
+- virtualenv (recomendado)
 - Node v22.3.0
 - NPM v10.8.1
 
@@ -18,7 +18,7 @@ Asegúrate de tener instalados los siguientes componentes en tu sistema:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/usuario/proyecto.git
+   git clone https://github.com/marcozsh/MarcozshBlog.git
    cd proyecto
    ```
    
