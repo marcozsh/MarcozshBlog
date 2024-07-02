@@ -1,0 +1,35 @@
+blog_project/env/
+# dependencies
+blog_project_front/node_modules
+blog_project_front/.pnp
+blog_project_front/.pnp.js
+blog_project_front/.yarn/install-state.gz
+
+# testing
+blog_project_front/coverage
+
+# next.js
+blog_project_front/.next/
+blog_project_front/out/
+
+# production
+blog_project_front/build
+
+# misc
+blog_project_front/.DS_Store
+blog_project_front/*.pem
+
+# debug
+blog_project_front/npm-debug.log*
+blog_project_front/yarn-debug.log*
+blog_project_front/yarn-error.log*
+
+# local env files
+blog_project_front/.env*.local
+
+# vercel
+blog_project_front/.vercel
+
+# typescript
+blog_project_front/*.tsbuildinfo
+blog_project_front/next-env.d.ts
